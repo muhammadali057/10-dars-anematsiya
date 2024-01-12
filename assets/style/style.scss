@@ -1,0 +1,37 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+// @mixin btn_style ($bg-color) {
+//     width: 150px;
+//     height: 50px;
+//     border-radius: 10px;
+// background-color: $bg-color;
+// color: white;
+// transition: 0.5s;
+// font-family: sans-serif;
+// font-weight: 700;
+// cursor: pointer;
+// font-size: 18px;
+// }
+
+
+// .btn_one {
+// @include btn_style(gold)
+// }
+
+// .btn_two {
+//     @include btn_style(red)
+
+// }
+
+
+
+
+@import "header";
+@import "main";
+@import "footer";
